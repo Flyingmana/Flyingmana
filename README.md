@@ -10,7 +10,6 @@
 - 💬 Ping me about **Games**, **OpenSource** ,**OpenMage**
 - 📫 Reach me: 
   - [phpc.social/@Flyingmana](https://phpc.social/@Flyingmana)
-  - [twitter.com/Flyingmana](https://twitter.com/Flyingmana)
   - [www.linkedin.com/in/daniel-fahlke-b281648a/](https://www.linkedin.com/in/daniel-fahlke-b281648a/)
   - or via email
 - 🎮 Fan of Games like Animal Crossing, Zelda, Final Fantasy, Stardew Valley, Settlers

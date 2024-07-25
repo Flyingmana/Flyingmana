@@ -5,8 +5,8 @@
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `Dockerfile`, `.xml`
 - 🌍 I'm mostly active within the **Magento** and **PHP** **Community**
-- 💜 I am one of the Maintainers of the e-commerce Project [**OpenMage**](https://github.com/openmage) (a Fork of the discontinued Magento 1)
-- 🌱 recently Learning about **Vue.js**,**Kotlin**,**Unity**
+- 💜 I was for 9 years a Maintainer of the e-commerce Project [**OpenMage**](https://github.com/openmage) (a Fork of the discontinued Magento 1)
+- 🌱 recently Learning about **Vue.js**,**Kotlin**,**Unity**, **Godot**
 - 💬 Ping me about **Games**, **OpenSource** ,**OpenMage**
 - 📫 Reach me: 
   - [phpc.social/@Flyingmana](https://phpc.social/@Flyingmana)

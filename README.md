@@ -14,3 +14,4 @@
   - [www.linkedin.com/in/daniel-fahlke-b281648a/](https://www.linkedin.com/in/daniel-fahlke-b281648a/)
   - or via email
 - 🎮 Fan of Games like Animal Crossing, Zelda, Final Fantasy, Stardew Valley, Settlers
+- codeberg: [https://codeberg.org/Flyingmana](https://codeberg.org/Flyingmana)
